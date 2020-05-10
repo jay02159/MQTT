@@ -1,4 +1,4 @@
-# MQTT
+# Python MQTT
 Connect and Control the MQTT broker with Python
 
 # ---Required Package---
